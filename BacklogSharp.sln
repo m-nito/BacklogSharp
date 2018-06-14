@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BacklogSharp", "BacklogSharp\BacklogSharp.csproj", "{DDA70CD9-D4C7-42F4-B8A6-F85B4B4905A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BacklogSharpTest", "BacklogSharpTest\BacklogSharpTest.csproj", "{8B0845A2-CD2E-4969-B8A0-7AC9ED6F2D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA70CD9-D4C7-42F4-B8A6-F85B4B4905A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA70CD9-D4C7-42F4-B8A6-F85B4B4905A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA70CD9-D4C7-42F4-B8A6-F85B4B4905A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA70CD9-D4C7-42F4-B8A6-F85B4B4905A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0845A2-CD2E-4969-B8A0-7AC9ED6F2D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0845A2-CD2E-4969-B8A0-7AC9ED6F2D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0845A2-CD2E-4969-B8A0-7AC9ED6F2D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0845A2-CD2E-4969-B8A0-7AC9ED6F2D27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B72284DB-0D7D-41F0-B33F-CEF9F3D582A7}
+	EndGlobalSection
+EndGlobal
