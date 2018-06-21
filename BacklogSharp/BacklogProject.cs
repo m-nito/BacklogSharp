@@ -8,10 +8,12 @@ namespace BacklogSharp
 {
     public class BacklogProject
     {
-        public BacklogProject(Dictionary<string, object> dict)
+        public BacklogProject(Dictionary<string, object> dict, Backlog main)
         {
+            MySpace = main;
             _dict = dict;
         }
+        public Backlog MySpace;
         private Dictionary<string, object> _dict;
 
         public string id

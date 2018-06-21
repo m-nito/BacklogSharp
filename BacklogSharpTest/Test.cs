@@ -44,7 +44,6 @@ namespace BacklogSharpTest
 
             Assert.True(res != null);
         }
-
         [Fact]
         void TestGetUsers()
         {

@@ -88,7 +88,7 @@ namespace BacklogSharp
                 new KeyValuePair<string, string>("summary", i.IssueTitle),
                 new KeyValuePair<string, string>("issueTypeId", i.IssueTypeID),
                 new KeyValuePair<string, string>("priorityId", i.Priority.ToString()),
-                new KeyValuePair<string, string>("description", i.desc),
+                new KeyValuePair<string, string>("description", i.Description),
                 new KeyValuePair<string, string>("assigneeId", i.Assignee)
                 //new KeyValuePair<string, string>("status", "1")
             };

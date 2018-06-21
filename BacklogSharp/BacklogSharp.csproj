@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="ApiAccesser.cs" />
     <Compile Include="Backlog.cs" />
+    <Compile Include="BacklogIssue.cs" />
     <Compile Include="BacklogProject.cs" />
     <Compile Include="BacklogRequest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
